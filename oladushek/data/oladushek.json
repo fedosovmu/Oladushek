@@ -1,0 +1,3 @@
+[{"id":"0", "name":"Smetana", "image":"images/oladushki/1.png", "vkus":"10", "speed":"1"},
+{"id":"1", "name":"Varenye", "image":"images/oladushki/2.png", "vkus":"30", "speed":"2"},
+{"id":"2", "name":"Shokolat", "image":"images/oladushki/3.png", "vkus":"60", "speed":"3"}]

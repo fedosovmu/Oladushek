@@ -1,0 +1,6 @@
+<div class="page-top">
+  <ol class="top-list">
+    <li class = "top-list__item" ng-repeat="user in users | orderBy:'score':!reverse | limitTo: 10">
+      Имя {{user.name}} Очки  {{user.score}}</li>
+  </ol>
+</div>

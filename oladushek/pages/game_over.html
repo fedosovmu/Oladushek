@@ -1,0 +1,8 @@
+<div class="game_over" ng-controller="gameController">
+    <h2><i>Приятного аппетита</i></h2>
+    <p><i>Вы приготовили оладушки по вкусу: {{totalScore}} очков!<br> Скажите как вас зовут о ПОВАР</i></p>
+    <form name=entername>
+        <p><input name="username" ng-model="username"><p>
+        <button ng-click="sendData()">Отправить</button>
+    </form>
+</div>
